@@ -42,3 +42,11 @@
 	path = tools/tblCRCTool
 	url = https://github.com/nasa/tblCRCTool.git
   branch = main
+[submodule "apps/hyun_app"]
+	path = apps/hyun_app
+	url = git@github.com:SPACE-Yonsei/hyun_app
+	branch = develop
+[submodule "apps/rcvtest_app"]
+	path = apps/rcvtest_app
+	url = git@github.com:SPACE-Yonsei/rcvtest_app
+	branch = develop
