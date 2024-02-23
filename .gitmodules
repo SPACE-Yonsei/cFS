@@ -50,3 +50,7 @@
 	path = apps/rcvtest_app
 	url = git@github.com:SPACE-Yonsei/rcvtest_app
 	branch = develop
+[submodule "libs/spacey_lib"]
+	path = libs/spacey_lib
+	url = git@github.com:SPACE-Yonsei/spacey_lib.git
+	branch = develop
