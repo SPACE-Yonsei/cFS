@@ -1,7 +1,3 @@
-[submodule "cfe"]
-	path = cfe
-	url = https://github.com/nasa/cFE.git
-	branch = master
 [submodule "osal"]
 	path = osal
 	url = https://github.com/nasa/osal.git
@@ -54,3 +50,7 @@
 	path = libs/spacey_lib
 	url = git@github.com:SPACE-Yonsei/spacey_lib.git
 	branch = develop
+[submodule "cfe"]
+	path = cfe
+	url = git@github.com:SPACE-Yonsei/cFE.git
+	branch = hyun
