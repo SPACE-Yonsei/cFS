@@ -54,3 +54,7 @@
 	path = psp
 	url = git@github.com:SPACE-Yonsei/PSP.git
 	branch = develop
+[submodule "apps/to_app"]
+	path = apps/to_app
+	url = git@github.com:SPACE-Yonsei/to_app.git
+	branch = develop
