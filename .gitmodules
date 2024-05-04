@@ -4,8 +4,8 @@
 	branch = hyun
 [submodule "apps/ci_lab"]
 	path = apps/ci_lab
-	url = https://github.com/nasa/ci_lab.git
-  branch = main
+	url = https://github.com/SPACE-Yonsei/ci_lab.git
+  branch = hyun
 [submodule "apps/sample_lib"]
 	path = libs/sample_lib
 	url = https://github.com/nasa/sample_lib.git
@@ -16,8 +16,8 @@
   branch = main
 [submodule "apps/to_lab"]
 	path = apps/to_lab
-	url = https://github.com/nasa/to_lab.git
-  branch = main
+	url = https://github.com/SPACE-Yonsei/to_lab.git
+  branch = hyun
 [submodule "tools/cFS-GroundSystem"]
 	path = tools/cFS-GroundSystem
 	url = https://github.com/nasa/cFS-GroundSystem.git
