@@ -78,3 +78,7 @@
 	path = apps/imu_app
 	url = git@github.com:SPACE-Yonsei/imu_app.git
 	branch = develop
+[submodule "apps/sim_app"]
+	path = apps/sim_app
+	url = git@github.com:SPACE-Yonsei/sim_app.git
+	branch = develop
