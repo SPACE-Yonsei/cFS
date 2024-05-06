@@ -82,3 +82,15 @@
 	path = apps/sim_app
 	url = git@github.com:SPACE-Yonsei/sim_app.git
 	branch = develop
+[submodule "apps/control_app"]
+	path = apps/control_app
+	url = git@github.com:SPACE-Yonsei/control_app.git
+	branch = develop
+[submodule "apps/logic_app"]
+	path = apps/logic_app
+	url = git@github.com:SPACE-Yonsei/logic_app.git
+	branch = develop
+[submodule "apps/vol_app"]
+	path = apps/vol_app
+	url = git@github.com:SPACE-Yonsei/vol_app.git
+	branch = develop
