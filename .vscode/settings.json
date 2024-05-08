@@ -3,6 +3,7 @@
         "ds_verify.h": "c",
         "ds_msg.h": "c",
         "rcvtest_app_msgids.h": "c",
-        "gps_app_msgids.h": "c"
+        "gps_app_msgids.h": "c",
+        "spacey.h": "c"
     }
 }

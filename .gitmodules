@@ -94,3 +94,7 @@
 	path = apps/vol_app
 	url = git@github.com:SPACE-Yonsei/vol_app.git
 	branch = develop
+[submodule "tools/GCS_test"]
+	path = tools/GCS_test
+	url = git@github.com:SPACE-Yonsei/GCS_test.git
+	branch = main
