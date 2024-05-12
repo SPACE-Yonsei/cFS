@@ -4,6 +4,9 @@
         "ds_msg.h": "c",
         "rcvtest_app_msgids.h": "c",
         "gps_app_msgids.h": "c",
-        "spacey.h": "c"
+        "spacey.h": "c",
+        "stdio.h": "c",
+        "libc-header-start.h": "c",
+        "cstdio": "c"
     }
 }
