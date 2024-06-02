@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpu1_hk_hk_cpy_tbl.a CMakeFiles/cpu1_hk_hk_cpy_tbl.dir/fsw/tables/hk_cpy_tbl.c.o
+/usr/bin/ranlib libcpu1_hk_hk_cpy_tbl.a

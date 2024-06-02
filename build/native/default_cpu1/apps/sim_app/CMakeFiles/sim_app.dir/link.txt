@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared  -o sim_app.so CMakeFiles/sim_app.dir/fsw/src/sim_app.c.o 

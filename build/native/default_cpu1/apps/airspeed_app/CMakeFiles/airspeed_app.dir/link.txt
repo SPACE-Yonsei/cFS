@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared  -o airspeed_app.so CMakeFiles/airspeed_app.dir/fsw/src/airspeed_app.c.o 

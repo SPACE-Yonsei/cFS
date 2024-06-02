@@ -1,0 +1,1 @@
+/usr/bin/cc -fPIC -g -shared  -o vol_app.so CMakeFiles/vol_app.dir/fsw/src/vol_app.c.o 

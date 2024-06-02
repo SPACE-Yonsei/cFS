@@ -1,0 +1,2 @@
+/usr/bin/ar qc libcpu1_imuappTable_imu_app_tbl.a CMakeFiles/cpu1_imuappTable_imu_app_tbl.dir/fsw/tables/imu_app_tbl.c.o
+/usr/bin/ranlib libcpu1_imuappTable_imu_app_tbl.a
