@@ -7,6 +7,10 @@
         "spacey.h": "c",
         "stdio.h": "c",
         "libc-header-start.h": "c",
-        "cstdio": "c"
+        "cstdio": "c",
+        "sen0343.h": "c",
+        "bhi360.h": "c",
+        "combined_pck.h": "c",
+        "to_lab_sub_table.h": "c"
     }
 }
