@@ -113,7 +113,6 @@ apps/sch_lab/CMakeFiles/cpu1_sch_lab_table_sch_lab_table.dir/fsw/tables/sch_lab_
   /home/hyunlee/working/cFS_study/cFS/apps/gps_app/fsw/platform_inc/gps_app_msgids.h \
   /home/hyunlee/working/cFS_study/cFS/apps/imu_app/fsw/platform_inc/imu_app_msgids.h \
   /home/hyunlee/working/cFS_study/cFS/apps/logic_app/fsw/platform_inc/logic_app_msgids.h \
-  /home/hyunlee/working/cFS_study/cFS/apps/sim_app/fsw/platform_inc/sim_app_msgids.h \
   /home/hyunlee/working/cFS_study/cFS/apps/vol_app/fsw/platform_inc/vol_app_msgids.h
 
 
@@ -148,8 +147,6 @@ apps/sch_lab/CMakeFiles/cpu1_sch_lab_table_sch_lab_table.dir/fsw/tables/sch_lab_
 /home/hyunlee/working/cFS_study/cFS/osal/src/os/inc/osapi-module.h:
 
 /home/hyunlee/working/cFS_study/cFS/osal/src/os/inc/osapi-printf.h:
-
-/home/hyunlee/working/cFS_study/cFS/apps/sim_app/fsw/platform_inc/sim_app_msgids.h:
 
 /usr/include/string.h:
 

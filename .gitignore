@@ -1,5 +1,5 @@
 Makefile
-#build
+build
 #/sample_defs
 .DS_Store
 /psp_legacy

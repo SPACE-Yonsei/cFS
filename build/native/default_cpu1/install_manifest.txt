@@ -13,12 +13,10 @@
 /exe/cpu1/cf/imu_app_tbl.tbl
 /exe/cpu1/cf/vol_app.so
 /exe/cpu1/cf/vol_app_tbl.tbl
-/exe/cpu1/cf/logic_app.so
-/exe/cpu1/cf/logic_app_tbl.tbl
 /exe/cpu1/cf/control_app.so
 /exe/cpu1/cf/control_app_tbl.tbl
-/exe/cpu1/cf/sim_app.so
-/exe/cpu1/cf/sim_app_tbl.tbl
+/exe/cpu1/cf/logic_app.so
+/exe/cpu1/cf/logic_app_tbl.tbl
 /exe/cpu1/cf/rcvtest_app.so
 /exe/cpu1/cf/rcvtest_app_tbl.tbl
 /exe/cpu1/cf/sample_app.so

@@ -188,6 +188,7 @@ apps/vol_app/CMakeFiles/vol_app.dir/fsw/src/vol_app.c.o: /home/hyunlee/working/c
   /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
   /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+  /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/commands.h \
   /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/tlm_pck/sen0343.h \
   /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/tlm_pck/bhi360.h \
   /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/tlm_pck/max_m10s.h \
@@ -484,6 +485,8 @@ inc/osconfig.h:
 /home/hyunlee/working/cFS_study/cFS/osal/src/os/inc/osapi-macros.h:
 
 /home/hyunlee/working/cFS_study/cFS/cfe/modules/core_api/fsw/inc/cfe_evs.h:
+
+/home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/commands.h:
 
 /usr/include/string.h:
 

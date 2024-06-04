@@ -188,6 +188,7 @@ apps/rcvtest_app/CMakeFiles/rcvtest_app.dir/fsw/src/rcvtest_app.c.o: /home/hyunl
   /usr/include/x86_64-linux-gnu/bits/getopt_posix.h \
   /usr/include/x86_64-linux-gnu/bits/getopt_core.h \
   /usr/include/x86_64-linux-gnu/bits/unistd_ext.h \
+  /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/commands.h \
   /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/tlm_pck/sen0343.h \
   /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/tlm_pck/bhi360.h \
   /home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/tlm_pck/max_m10s.h \
@@ -472,6 +473,8 @@ inc/osconfig.h:
 /home/hyunlee/working/cFS_study/cFS/osal/src/os/inc/osapi-macros.h:
 
 /home/hyunlee/working/cFS_study/cFS/cfe/modules/core_api/fsw/inc/cfe_evs.h:
+
+/home/hyunlee/working/cFS_study/cFS/libs/spacey_lib/includes/libs/spacey/commands.h:
 
 /usr/include/string.h:
 

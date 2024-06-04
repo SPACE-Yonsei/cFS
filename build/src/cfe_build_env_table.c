@@ -3,7 +3,7 @@
 const CFE_ConfigKeyValue_t CFE_BUILD_ENV_TABLE[] = {
 
 
-{ "BUILDDATE", "202406021928" },
+{ "BUILDDATE", "202406050137" },
 { "BUILDUSER", "hyunlee" },
 { "BUILDHOST", "ubuntu-desktop" },
 

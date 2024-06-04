@@ -11,9 +11,9 @@ MISSION_BINARY_DIR
 MISSIONCONFIG
 sample
 MISSION_APPS
-cfe_assert;spacey_lib;sample_lib;gps_app;as_app;ds;imu_app;vol_app;logic_app;control_app;sim_app;rcvtest_app;sample_app;hyun_app;hk;ci_lab;to_lab;sch_lab
+cfe_assert;spacey_lib;sample_lib;gps_app;as_app;ds;imu_app;vol_app;control_app;logic_app;rcvtest_app;sample_app;hyun_app;hk;ci_lab;to_lab;sch_lab
 MISSION_DEPS
-core_api;core_private;cfe_assert;spacey_lib;sample_lib;gps_app;as_app;ds;imu_app;vol_app;logic_app;control_app;sim_app;rcvtest_app;sample_app;hyun_app;hk;ci_lab;to_lab;sch_lab;es;evs;fs;sb;tbl;time;osal;psp;msg;sbr;resourceid
+core_api;core_private;cfe_assert;spacey_lib;sample_lib;gps_app;as_app;ds;imu_app;vol_app;control_app;logic_app;rcvtest_app;sample_app;hyun_app;hk;ci_lab;to_lab;sch_lab;es;evs;fs;sb;tbl;time;osal;psp;msg;sbr;resourceid
 core_api_MISSION_DIR
 /home/hyunlee/working/cFS_study/cFS/cfe/modules/core_api
 core_private_MISSION_DIR
@@ -34,12 +34,10 @@ imu_app_MISSION_DIR
 /home/hyunlee/working/cFS_study/cFS/apps/imu_app
 vol_app_MISSION_DIR
 /home/hyunlee/working/cFS_study/cFS/apps/vol_app
-logic_app_MISSION_DIR
-/home/hyunlee/working/cFS_study/cFS/apps/logic_app
 control_app_MISSION_DIR
 /home/hyunlee/working/cFS_study/cFS/apps/control_app
-sim_app_MISSION_DIR
-/home/hyunlee/working/cFS_study/cFS/apps/sim_app
+logic_app_MISSION_DIR
+/home/hyunlee/working/cFS_study/cFS/apps/logic_app
 rcvtest_app_MISSION_DIR
 /home/hyunlee/working/cFS_study/cFS/apps/rcvtest_app
 sample_app_MISSION_DIR
