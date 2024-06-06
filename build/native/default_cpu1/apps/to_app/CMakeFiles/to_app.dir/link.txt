@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o to_app.so CMakeFiles/to_app.dir/fsw/src/to_app.c.o 

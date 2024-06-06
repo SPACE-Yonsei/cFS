@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o imu_app.so CMakeFiles/imu_app.dir/fsw/src/imu_app.c.o 

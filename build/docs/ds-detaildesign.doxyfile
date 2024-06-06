@@ -1,6 +1,0 @@
-#---------------------------------------------------------------------------
-# Doxygen Configuration options for mission detailed documentation
-#---------------------------------------------------------------------------
-
-# Common files
-@INCLUDE = /home/hyunlee/working/cFS_study/cFS/build/docs/ds-common.doxyfile

@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o lib_spacey_commands.so CMakeFiles/lib_spacey_commands.dir/src/commands.c.o 
