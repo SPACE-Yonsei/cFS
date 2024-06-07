@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcpu1_asappTable_as_app_tbl.a CMakeFiles/cpu1_asappTable_as_app_tbl.dir/fsw/tables/as_app_tbl.c.o
-/usr/bin/ranlib libcpu1_asappTable_as_app_tbl.a

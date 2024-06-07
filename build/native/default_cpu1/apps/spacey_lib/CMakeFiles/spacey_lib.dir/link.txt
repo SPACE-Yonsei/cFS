@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o spacey_lib.so CMakeFiles/spacey_lib.dir/src/spacey.c.o 

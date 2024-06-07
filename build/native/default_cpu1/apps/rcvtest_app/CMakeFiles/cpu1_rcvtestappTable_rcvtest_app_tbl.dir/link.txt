@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcpu1_rcvtestappTable_rcvtest_app_tbl.a CMakeFiles/cpu1_rcvtestappTable_rcvtest_app_tbl.dir/fsw/tables/rcvtest_app_tbl.c.o
-/usr/bin/ranlib libcpu1_rcvtestappTable_rcvtest_app_tbl.a

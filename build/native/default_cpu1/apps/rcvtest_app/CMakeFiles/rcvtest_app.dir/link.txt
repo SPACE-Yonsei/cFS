@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o rcvtest_app.so CMakeFiles/rcvtest_app.dir/fsw/src/rcvtest_app.c.o 

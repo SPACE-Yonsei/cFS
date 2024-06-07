@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o hk.so CMakeFiles/hk.dir/fsw/src/hk_app.c.o CMakeFiles/hk.dir/fsw/src/hk_utils.c.o 

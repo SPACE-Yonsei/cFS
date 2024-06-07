@@ -1,2 +1,0 @@
-/usr/bin/ar qc libcpu1_gpsappTable_gps_app_tbl.a CMakeFiles/cpu1_gpsappTable_gps_app_tbl.dir/fsw/tables/gps_app_tbl.c.o
-/usr/bin/ranlib libcpu1_gpsappTable_gps_app_tbl.a

@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o control_app.so CMakeFiles/control_app.dir/fsw/src/control_app.c.o 

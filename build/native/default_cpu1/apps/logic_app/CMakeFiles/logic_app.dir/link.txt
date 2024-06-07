@@ -1,1 +1,0 @@
-/usr/bin/cc -fPIC -g -shared  -o logic_app.so CMakeFiles/logic_app.dir/fsw/src/logic_app.c.o 

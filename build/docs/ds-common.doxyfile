@@ -1,9 +1,0 @@
-#---------------------------------------------------------------------------
-# Common doxygen configuration items
-#---------------------------------------------------------------------------
-
-# Include front material followed by everything in fsw
-INPUT      += /home/hyunlee/working/cFS_study/cFS/apps/ds/docs/dox_src/cfs_ds.dox
-INPUT      += /home/hyunlee/working/cFS_study/cFS/apps/ds/fsw
-
-IMAGE_PATH += /home/hyunlee/working/cFS_study/cFS/apps/ds/docs/dox_src
