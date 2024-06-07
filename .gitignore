@@ -5,3 +5,5 @@ build*
 .DS_Store
 /psp_legacy
 build/*
+*.tar
+*.tar.*
